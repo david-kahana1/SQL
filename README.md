@@ -13,14 +13,11 @@ I used Microsoft's SQL Server (T-SQL).
 - Sub Queries
 - Tables Joins: INNER / LEFT / RIGHT JOIN
 
-<br>
-I have additional queries that I did not include here, which contain the use of AND, OR, NOT operators, as well as DML commands such as INSERT INTO and UPDATE.
 
-
-<br> <br>
+<br> 
 Feel free to explore the attached source code.
 
-<br>
+<br><br> 
 
 
 <p align="center"><b> The 'Northwind' Structure:</b></p>
